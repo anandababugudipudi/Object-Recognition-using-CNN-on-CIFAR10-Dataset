@@ -27,10 +27,13 @@ In this project, we are going to implement the following steps:
 7. Data Augmentation to reduce overfitting
 
 After the successful training the baseline Model has given 68% accuracy. 
+
 ![Baseline Model Graph](/1.png)
 
 By applying regularization methods we could achieve 83% accuracy.
+
 ![Regularization Graph](/2.png)
 
 After applying DataAugmentation the accuracy has been increased to 87%.
+
 ![Data Augmentation Graph](/3.png)
