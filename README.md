@@ -37,3 +37,6 @@ By applying regularization methods we could achieve 83% accuracy.
 After applying DataAugmentation the accuracy has been increased to 87%.
 
 ![Data Augmentation Graph](/images/3.png)
+
+Here is the overall accuracy report.
+![Report](/images/4.png)
