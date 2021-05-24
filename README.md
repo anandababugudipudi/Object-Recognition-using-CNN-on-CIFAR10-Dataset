@@ -13,7 +13,7 @@ CIFAR-10  is an established computer-vision dataset used for object recognition.
 - 8: ship
 - 9: truck
 
-![cifar-10.png](/cifar-10.png)
+![cifar-10.png](/images/cifar-10.png)
 
 These all are very small images, much smaller than a typical photograph, and the dataset was intended for computer vision research. CIFAR-10 is a well-understood dataset and widely used for benchmarking computer vision algorithms in the field of machine learning. The problem is “solved.” It is relatively straightforward to achieve 80% classification accuracy. Top performance on the problem is achieved by deep learning convolutional neural networks with a classification accuracy above 90% on the test dataset.
 
@@ -28,12 +28,12 @@ In this project, we are going to implement the following steps:
 
 After the successful training the baseline Model has given 68% accuracy. 
 
-![Baseline Model Graph](1.png)
+![Baseline Model Graph](/images/1.png)
 
 By applying regularization methods we could achieve 83% accuracy.
 
-![Regularization Graph](2.png)
+![Regularization Graph](/images/2.png)
 
 After applying DataAugmentation the accuracy has been increased to 87%.
 
-![Data Augmentation Graph](3.png)
+![Data Augmentation Graph](/images/3.png)
